@@ -1,0 +1,50 @@
+Programmer: A machine that turns coffee into code.
+Computers are fast; programmers keep it slow.
+A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don't touch!
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Programming can be fun, and so can cryptography; however, they should not be combined.
+Copy-and-Paste was programmed by programmers for programmers actually.
+Algorithm: Word used by programmers when they don't want to explain what they did.
+There are two ways to write error-free programs; only the third works.
+If debugging is the process of removing bugs, then programming must be the process of putting them in.
+99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code...
+Remember that there is no code faster than no code.
+One man's crappy software is another man's full-time job.
+No code has zero defects.
+A good programmer is someone who always looks both ways before crossing a one-way street.
+Deleted code is debugged code.
+Don't worry if it doesn't work right. If everything did, you'd be out of a job.
+It's not a bug - it's an undocumented feature.
+Voodoo Programming
+It works on my machine.
+It compiles; ship it.
+There are only two kinds of programming languages out there. The ones people complain about and the ones no one uses.
+Programming made the impossible possible. You can have a null object and a constant variable.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.
+When your hammer is C++, everything begins to look like a thumb.
+C programmers never die. They are just cast into void.
+Without C we only have Obol, Pasal, and BASI.
+In C we had to code our own bugs. In C++ we can inherit them.
+What's the object-oriented way to get wealthy? Inheritance
+C++: Where your friends have access to your private members.
+Why do Java programmers have to wear glasses? Because they don't C#.
+Q: What did the Java code say to the C code? A: You've got no class.
+You'll surely have fun when programming Kotlin, promised.
+There's no obfuscated Perl contest because it's pointless.
+Perl: The only language that looks the same before and after RSA encryption.
+Some people when confronted with a problem think, "I know, I'll use regular expressions." Now they have two problems.
+If Java had true garbage collection, most programs would delete themselves upon execution.
+Python: Executable pseudocode. Perl: Executable line noise.
+Should one learn Advanced BASIC programming language?
+Knock, knock... Who’s there?... *very long pause*... Java.
+A SQL query goes into a bar, walks up to two tables, and asks, "Can I join you?"
+To understand what recursion is, you must first understand recursion.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+Two bytes meet. The first byte asks, "Are you ill?" The second byte replies, "No, just feeling a bit off."
+There are 10 kinds of people in the world: Those who know binary and those who don't.
+William Shakespeare's question 2B OR NOT 2B = FF.
+Q: If 1 is true and 0 is false? A: 1.
+Programmer's partner: "Are you going to sit and type in front of that thing all day, or are you going out with me?" Programmer: "Yes."
+There are only two hard things in computer science: cache invalidation and naming things.
+Computers are good at following instructions but not at reading your mind.
+When we had no computers, we had no programming problems either.
